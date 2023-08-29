@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQxYSYkWZZkEyimam5HdpDhX1sAFHYzvDOIpRh7ddZ25S1OLmXru907k2iSxTfW3+Qukc4bHn5RToQh84PwgUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\.Net\\MvcProject\\break_authorization\\break_authorization\\break_authorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}
